@@ -12,7 +12,7 @@ A comprehensive Power BI dashboard analyzing Netflix's global content catalog us
 
 ## 🖼️ Screenshots
 
-![Overview](screenshots/page1-overview.png)
+![Overview](screenshots/Screenshot 2026-05-26 213941.png)
 > 📌 *Page 1 background design sourced from Pinterest for visual inspiration*
 
 ![Details](screenshots/page2-details.png)
