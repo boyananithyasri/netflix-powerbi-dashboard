@@ -6,7 +6,7 @@ A comprehensive Power BI dashboard analyzing Netflix's global content catalog us
 
 ## 📽️ Dashboard Demo
 
-<!-- Upload your screen recording by editing this file on GitHub, then drag and drop your .mp4 video here — GitHub will auto-host it and embed it -->
+▶️ [Click here to watch the dashboard walkthrough](https://www.loom.com/share/60a88ff5a73347b0aee6542965c4867e)
 
 ---
 
