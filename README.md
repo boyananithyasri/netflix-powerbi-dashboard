@@ -52,6 +52,6 @@ A comprehensive Power BI dashboard analyzing Netflix's global content catalog us
 
 ## 🚀 How to View
 
-1. Download the `.pbix` file from this repo
-2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-3. Explore the interactive dashboard with filters and slicers
+▶️ [Click here to watch the dashboard walkthrough](https://www.loom.com/share/60a88ff5a73347b0aee6542965c4867e)
+
+Or download the `Netflix Analysis Dashboard.pbix` file from this repo and open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) to explore interactively.
